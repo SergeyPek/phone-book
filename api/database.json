@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "contact": 27
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "contact": {
+      "25": "{\"firstname\":\"Contact 1\",\"lastname\":\"Contact 1\",\"dob\":\"2018-03-04T22:00:00.000Z\",\"phone\":\"+12 345 67 888 99 00\",\"id\":25}",
+      "26": "{\"firstname\":\"fsdfas\",\"lastname\":\"asdfasdf\",\"dob\":\"1980-03-28T15:02:25.064Z\",\"phone\":\"123412341234\",\"id\":26}"
+    }
+  }
+}
